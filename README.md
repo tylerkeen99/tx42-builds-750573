@@ -14,6 +14,6 @@ When a new build is out, TX42 shows **"A new version is available"** on its home
 
 ## Feedback
 
-In TX42, tap **Send feedback** on the home screen. It opens an email with your app version and phone model already filled in.
+In TX42, tap **Feedback** on the home screen. It opens an email with your app version and phone model already filled in.
 
 iPhone builds will come through TestFlight later.
